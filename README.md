@@ -1,7 +1,7 @@
 # Iterator Drill: Map
 
 ## Learning Goals
-
+ 
 * Define how the `map()` method works
 * Demonstrate `map()` with `Array`s
 * Demonstrate `map()` with complex data structures
